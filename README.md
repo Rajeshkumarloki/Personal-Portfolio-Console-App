@@ -19,9 +19,7 @@ The application follows Object-Oriented Programming principles with proper input
 📂 Project Structure
 src/
 ├── Main.java
-
 ├── Portfolio.java
-
 └── PortfolioManager.java
 
 ▶ How to Run
